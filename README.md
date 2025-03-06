@@ -1,4 +1,4 @@
-## [Project 2: Bank Customer Churn Analysis Dashboard|Power BI, Excel|](https://app.powerbi.com/links/GvkcI2cEKC?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare)
+## [Bank Customer Churn Analysis Dashboard|Power BI, Excel|](https://app.powerbi.com/links/GvkcI2cEKC?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare)
 
 #### Key Metrics Summary
 * Total Customers: 5,457
