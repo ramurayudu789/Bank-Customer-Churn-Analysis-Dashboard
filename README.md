@@ -11,5 +11,7 @@
 *Active Membership Impact: Active members (67.1%) show lower churn rates compared to non-active members.
 #### Age & Churn Trends
 * Churn Rate by Age Group: Highest churn in 40-50 age group, suggesting potential dissatisfaction among mid-career customers.
+#### Power BI Dashboard Output
+[Power BI Dashboard – ](Dashboard.png)  
 #### Purpose
 This dashboard helps banks identify churn patterns, analyze customer demographics, and develop retention strategies by understanding key factors influencing customer attrition.
